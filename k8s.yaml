@@ -40,7 +40,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: yklee2002/order-multiagent:06dcf8b97136ded24a908b850b7521bedbb81b5b
+        image: yklee2002/order-multiagent:38ca2fbabed3cb0a7e03e73cc0af93abd04bfcd1
         imagePullPolicy: Always
 
         ports:
