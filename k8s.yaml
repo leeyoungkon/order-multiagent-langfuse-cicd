@@ -20,8 +20,8 @@ metadata:
   name: langfuse-credentials
 type: Opaque
 stringData:
-  public-key: "pk-lf-e96d206f-a490-4f4e-895e-59f22a3e7604"
-  secret-key: "sk-lf-608e3048-2a7a-421e-aad0-ce18ddd86d7d"
+  public-key: "pk-lf-72a98e72-d748-41a4-aecc-6ba6e825fc33"
+  secret-key: "sk-lf-21a75d3d-dd2b-40f1-b36f-648b7117c3d6"
 
 ---  
 apiVersion: apps/v1
