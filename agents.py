@@ -7,7 +7,7 @@ from customer_mcp import get_customer_details
 from langfuse import observe
 
 
-class AnalysisState(TypedDict, total=False): 
+class AnalysisState(TypedDict, total=False):  
     question: str
     days: int
     selected: list[str]
